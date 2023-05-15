@@ -1,6 +1,6 @@
 Author: Sumaiya-Mohamed
 
-Title: Sumaiya-Mohamed/-grid-challenge-SUMMOH081_FTC2301_GROUPC_SumaiyaMohamed_PF1 (Home Market)
+Title: -grid-challenge-SUMMOH081_FTC2301_GROUPC_SumaiyaMohamed_PF1 (Home Market)
 
 Technologies Used: HTML, CSS 
 
